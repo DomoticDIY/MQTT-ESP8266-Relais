@@ -44,7 +44,7 @@ const char* mqtt_password = "8PASSWORD_";       // Mot de passe de connexion à 
 String nomModule = "Module relais";     // Nom usuel de ce module.
 char* topicIn = "domoticz/out";         // Nom du topic envoyé par Domoticz
 char* topicOut = "domoticz/in";         // Nom du topic écouté par Domoticz
-int pinRelais = 2;                      // Pin sur lequel est connecté la commande du relais.
+int pinRelais = 0;                      // Pin sur lequel est connecté la commande du relais.
 int idxDevice = 27;                     // Index du Device à actionner.
 // ------------------------------------------------------------
 

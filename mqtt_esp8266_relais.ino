@@ -84,10 +84,11 @@ void setup_wifi() {
   WiFi.begin(ssid, password);
 
   while (WiFi.status() != WL_CONNECTED) {
+    // Tant que l'on est pas connecté, on boucle.
     delay(500);
     Serial.print(".");
   }
-
+  // Initialise la séquence Random
   randomSeed(micros());
 
   Serial.println("");

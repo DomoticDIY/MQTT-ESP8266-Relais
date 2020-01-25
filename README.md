@@ -1,6 +1,8 @@
 # MQTT-ESP8266-Relais
 Action d'un relais via MQTT depuis Domoticz
 
+But : Commander un relais MQTT via Domoticz.
+
 Voici comment créer un déclencheur, commander par MQTT. L'intéret est de pouvoir déclencher un relais à distance, ce dernier permettant d'activer l'alimentation d'un appareil électrique, que ce soit moteur, éclairage,...., tout est possible, dès lors que la consommation de l'appareil commandé ne dépasse pas la Tension (volts), et Intensité (Ampéres) maximum autorisé par le relais, et en fonction du type de courant.
 
 Partie logiciel necessaire :

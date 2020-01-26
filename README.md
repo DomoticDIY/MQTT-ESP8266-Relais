@@ -21,4 +21,4 @@ Dans le fichier PubSubClient.h : La valeur du paramètre doit être augmentée �
 
 
 
-Vidéo explicative sur Youtuve : https://www.youtube.com/watch?v=6HclvzhEWMg
+Vidéo explicative sur YouTube : https://www.youtube.com/watch?v=6HclvzhEWMg

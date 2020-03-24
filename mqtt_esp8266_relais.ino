@@ -6,7 +6,7 @@
 
  Bibliothéques nécessaires :
  - pubsubclient : https://github.com/knolleary/pubsubclient
- - ArduinoJson : https://github.com/bblanchon/ArduinoJson
+ - ArduinoJson v5.13.3 : https://github.com/bblanchon/ArduinoJson
 Télécharger les bibliothèques, puis dans IDE : Faire Croquis / inclure une bibliothéque / ajouter la bibliothèque ZIP.
 Dans le gestionnaire de bibliothéque, charger le module ESP8266Wifi.
 

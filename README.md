@@ -14,7 +14,7 @@ Installer la prise en charge des cartes ESP8266
 
 Bibliothéques : 
  - pubsubclient : https://github.com/knolleary/pubsubclient 
- - ArduinoJson : https://github.com/bblanchon/ArduinoJson 
+ - ArduinoJson v5.13.3 : https://github.com/bblanchon/ArduinoJson 
  
 Dans IDE : Faire Croquis / inclure une bibliothéque / ajouter la bibliothèque ZIP. 
 
